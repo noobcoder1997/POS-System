@@ -1,2 +1,2 @@
 # POS.System
-Ride Hailing and Delivery Services
+POS System using PHP, JavaScript, JQuery, Bootstrap CSS
